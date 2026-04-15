@@ -1,7 +1,6 @@
 # 📌 **ScoreCast**
 
-# 👥 Grupo:
-**Absolute Cinema**
+# 👥 Grupo: **Absolute Cinema**
 
 # 📧 Contacto
 - Lee Angelo Powell Brant – lpowell@unal.edu.co  
